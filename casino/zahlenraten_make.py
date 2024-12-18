@@ -44,3 +44,4 @@ while True:
             print("Hier ist dein Geld für das Haus Frau und Kinder")
         elif entscheidung == "n" or "N":
             break
+print("niggas")
